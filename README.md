@@ -22,7 +22,6 @@ Below are some examples of different cases the function should handle. Pay close
 PS: Do not import any Python libraries. Assume that the start times are valid times. The minutes in the duration time will be a whole number less than 60, but the hour can be any whole number.
 
 # Development
-write
 
 # Testing
 The unit tests for this project are in test_module.py. We imported the tests from test_module.py to main.py for your convenience. The tests will run automatically whenever you hit the "run" button.
