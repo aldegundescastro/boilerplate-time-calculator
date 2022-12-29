@@ -65,12 +65,4 @@ def add_time(start, duration, parameter='x'):
   if cont_days > 1:
     new_time = new_time + ' ' + '(' + str(cont_days) + ' days later' + ')'
 
-
-#  print(" ",
-#        str(start_h).zfill(2), ':',
-#        str(start_m).zfill(2), ' ',
-#        str(start_AM_PH).zfill(2), ' ',
-#        str(duration_h).zfill(2), ':',
-#        str(duration_m).zfill(2), '  ', total, '    ', new_time)
-
   return new_time
